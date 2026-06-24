@@ -80,4 +80,4 @@ Department of Computer Science and Engineering
 
 Manakula Vinayagar Institute of Technology
 
-<img width="322" height="756" alt="image" src="https://github.com/user-attachments/assets/5ba2ad22-5698-4b89-8873-568e1161ce6c" />
+<img width="1169" height="631" alt="image" src="https://github.com/user-attachments/assets/1b904084-2bd2-448d-a655-2fc2679b5887" />
